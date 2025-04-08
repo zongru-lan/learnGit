@@ -9,3 +9,4 @@ Git has a mutable index called stage.
 today is a bright day
 spring is coming
 modified a line
+i miss the time
