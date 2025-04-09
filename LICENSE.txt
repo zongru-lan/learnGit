@@ -2,8 +2,4 @@ practice make perfect
 life will be better
 life is full of hope
 add
-<<<<<<< Updated upstream
-king
-=======
 yumi
->>>>>>> Stashed changes
